@@ -72,7 +72,11 @@ jupyter notebook social_media_pipeline.ipynb
 ## 📂 Project Structure
 
 social-media-ml-pipeline/
+
 ├── social_media_pipeline.ipynb # main notebook
+
 ├── requirements.txt # dependencies
+
 ├── report.pdf # optional project write-up
+
 └── README.md # documentation
